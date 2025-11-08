@@ -2,6 +2,8 @@
 
 A modern, responsive web application built with React for managing student extracurricular activities.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Paul-Melchizedek/FEDF_Project)
+
 ## Features
 
 ### For Students
